@@ -8,3 +8,4 @@
 !/.config/ranger/scope.sh
 !/.gitignore.d/vc_ranger
 !/.local/share/applications/ranger.desktop
+!/.local/share/icons/ranger.png

@@ -1,0 +1,10 @@
+*
+!/.config/ranger/commands.py
+!/.config/ranger/devicons.py
+!/.config/ranger/plugins/devicons_linemode.py
+!/.config/ranger/plugins/__init__.py
+!/.config/ranger/rc.conf
+!/.config/ranger/rifle.conf
+!/.config/ranger/scope.sh
+!/.gitignore.d/vc_ranger
+!/.local/share/applications/ranger.desktop

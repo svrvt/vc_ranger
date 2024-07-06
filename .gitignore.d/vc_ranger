@@ -1,5 +1,8 @@
 *
 !/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_ranger
 !/.config/ranger
 !/.config/ranger/commands.py
 !/.config/ranger/devicons.py

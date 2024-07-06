@@ -1,0 +1,4 @@
+[.config/vcsh/repo.d/vc_ranger.git]
+checkout = vcsh clone git@github.com:svrvt/vc_ranger.git
+
+# vi: ft=ini syntax=sh

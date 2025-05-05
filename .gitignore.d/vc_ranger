@@ -2,7 +2,7 @@
 !/.config
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/workflow.vc.ranger
+!/.config/mr/available.d/vc.ranger
 !/.config/ranger
 !/.config/ranger/commands.py
 !/.config/ranger/devicons.py
